@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-server',
+    title: 'Davidyoon-nuxt-server',
     htmlAttrs: {
       lang: 'en'
     },

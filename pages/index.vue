@@ -1,13 +1,13 @@
 <template>
   <div class="container">
+    <NuxtLogo />
     메인
     {{ $store.state.user.email }}
   </div>
-  <Tutorial/>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+    name: "IndexPage"
 }
 </script>
