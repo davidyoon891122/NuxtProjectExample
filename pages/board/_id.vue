@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        게시판 메인
+        {{$route.params.id}}게시판
     </div>
 </template>
 <script>

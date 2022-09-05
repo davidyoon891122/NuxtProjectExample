@@ -1,6 +1,6 @@
-<template>
-    <div class="container">
-        게시판 메인
+<<template>
+    <div>
+        <button>버튼 테스트</button>
     </div>
 </template>
 <script>
